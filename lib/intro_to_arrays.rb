@@ -7,4 +7,6 @@ def array_with_two_elements
 end
 
 def first_element
-  
+  array.index(0)
+end
+
