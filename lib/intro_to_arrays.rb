@@ -14,4 +14,7 @@ def my_third_element(array)
   array.index(2)
 end
 
+def last_element(array)
+  array.
+
 
